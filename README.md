@@ -22,7 +22,3 @@ Click-Through Probability 𝑈𝑛𝑖𝑞𝑢𝑒 𝑣𝑖𝑠𝑖𝑡𝑜𝑟�
 
 Use a probability when you want to measure the total impact (how often users went to the second level page on your site)
 We're interested in whether users are progressing to the second level of the funnel, which is why we picked a probability.
-
- # Resources
- Udacity free course on A/B Testing
-Introduction to bayes theorem https://www.youtube.com/watch?v=HZGCoVF3YvM
